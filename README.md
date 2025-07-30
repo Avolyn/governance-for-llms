@@ -10,6 +10,6 @@ This guide is intended to inspire, challenge, and help the user conceptualize Ge
 - Observability (Continuous, Real-Time, Automated, Outcome Driven, Evaluation Loops, Token-Level)
 - Transparency (Traceable, Lineaged, Coherent, Useful)
 - Explainability (Documented, Cited, Hallucination-Managed, Immutable, Role-Based)
-- Security (Policy-as-Code, Embedded, Risk Toleranced, Protected)
+- Security (Privacy, Policy-as-Code, Embedded, Risk Toleranced, Protected)
 - Responsible AI (Ethical, Fair, Unbiased)
 - Sustainability (Environmental, Performant, Budgeted)

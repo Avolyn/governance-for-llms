@@ -4,7 +4,7 @@ A collection of thought pieces and published artifacts organized by governance c
 
 If you would like to suggest a resource, create an issue (or reach out directly) & it will be reviewed for inclusion.
 
-(Resources are not listed under category in any order of importance, only the order in which they were added.)
+**Resources are not listed under category in any order of importance, only the order in which they were added.*
 
 ## Regulatory Compliance 
 (Federated, Capability Driven, Context-Aware, Reusable Components, Adaptive)

@@ -2,9 +2,9 @@
 
 A collection of thought pieces and published artifacts organized by governance category. This corpus influenced the work of this repository and serves as a Library of resources for anyone wishing to go deeper on the topic or do their own research across the evolving technology space.
 
-If you would like to suggest a resource, create an issue (or reach out directly) & it will be reviewed :)
+If you would like to suggest a resource, create an issue (or reach out directly) & it will be reviewed for inclusion.
 
-Resources are not listed under category in any order of importance, only the order in which they were added.
+(Resources are not listed under category in any order of importance, only the order in which they were added.)
 
 ## Regulatory Compliance 
 (Federated, Capability Driven, Context-Aware, Reusable Components, Adaptive)

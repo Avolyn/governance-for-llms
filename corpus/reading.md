@@ -22,6 +22,7 @@ If you would like to suggest a resource, create an issue (or reach out directly)
 ## Security
 (Privacy, Policy-as-Code, Embedded, Risk Toleranced, Protected)
 - [Privacy and Data Protection Risks in Large Language Models (LLMs)](https://rm.coe.int/privacy-and-data-protection-risks-in-large-language-models-llms-v1-0/1680b631dd) - by Barbera & Popa-Fabre (white paper)
+- [On Protecting the Data Privacy of Large Language Models (LLMs): A Survey](https://arxiv.org/pdf/2403.05156) - by Yan/Li/Xu/Dong/Zhang/Ren/Cheng (white paper)
   
 ## Responsible AI
 (Ethical, Fair, Unbiased)

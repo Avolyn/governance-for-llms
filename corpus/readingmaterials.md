@@ -28,6 +28,8 @@ If you would like to suggest a resource, create an issue (or reach out directly)
   
 ## Responsible AI
 (Ethical, Fair, Unbiased)
+- [Responsible AI Progress Report](https://ai.google/static/documents/ai-responsibility-update-published-february-2025.pdf) - Google, Feb 2025
+- [The Impossibility of Fair LLMs](https://aclanthology.org/2025.acl-long.5/) - by Anthis/Lum/Ekstrand/Feller/Tan (research)
 
 ## Sustainability
 (Environmental, Performant, Budgeted)

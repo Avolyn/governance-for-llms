@@ -21,6 +21,7 @@ If you would like to suggest a resource, create an issue (or reach out directly)
 (Documented, Cited, Hallucination-Managed, Immutable, Role-Based)
 - [If a Model Decision Can Impact a Customer's Life, It Must Be Explainable](https://medium.com/@slsarath2/if-a-model-decision-can-impact-a-customers-life-it-must-be-explainable-2534f7199b47) - by Sarath SL (medium)
 - [Humanity's Last Exam](https://agi.safe.ai/) - (research)
+- [Scholars: AI isn't 'hallucinating' -it's bullshitting](https://www.psypost.org/scholars-ai-isnt-hallucinating-its-bullshitting/) - Dolan, PsyPost
 
 ## Security
 (Privacy, Policy-as-Code, Embedded, Risk Toleranced, Protected)
